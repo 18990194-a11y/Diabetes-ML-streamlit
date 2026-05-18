@@ -1,0 +1,14 @@
+1. "Revisa y corrige mi proyecto de machine learning en Python para predecir diabetes usando el dataset Pima Indians, 
+incluyendo análisis exploratorio de datos y visualizaciones."
+
+2. "Dime si  el código en Python para realizar limpieza de datos en un dataset médico, 
+incluyendo el manejo de valores nulos y el reemplazo de ceros por la media."
+
+3. "Revisa si los modelos de clasificación (Logistic Regression y Decision Tree) 
+están correctos para un problema de predicción de diabetes y compara sus resultados usando accuracy y classification report."
+
+4. "Guíame para guardar modelos de machine learning en formato .
+pkl usando joblib para luego utilizarlos en una aplicación web con Streamlit."
+
+5. "Explícame cómo crear una aplicación en Streamlit que cargue un modelo de machine learning 
+y permita ingresar datos médicos para predecir si un paciente tiene diabetes."
